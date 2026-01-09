@@ -3,36 +3,23 @@
 Team leader: Rinaldi Davide
 Altri componenti: Larcher Daniele, Michelon Matteo, Pedretti Federico
 
-# Nome del Progetto
+# SITO PAROLE TRENTINE
 
-Breve descrizione del progetto e del suo scopo principale.
+Sito che permette di tradurre parole dal trentino all'italiano e viceversa, con aggiunta di autio e spiegazioni con esempi.
+
 
 ## Demo
-link sito in versione demo
+Sito ancora in fase di sviluppo
 
-## 📌 Funzionalità
-- Funzionalità principale 1
-- Funzionalità principale 2
-- Funzionalità principale 3
+## Funzionalità
+- Tradurre dall'italiano al dialetto
+- Tradurre dal dialetto all'italiano
+- Fornire esempi pratici di utilizzo comune e audio con la pronuncia
 
-## 🛠️ Tecnologie Utilizzate
-- HTML5
-- CSS3
+## Tecnologie Utilizzate
+- HTML
+- CSS
 - JavaScript
-- Framework / Librerie (es. React, Vue, Bootstrap)
-- Backend (se presente)
-- Database (se presente)
+- Database
 
-## 📂 Struttura del Progetto
-```text
-project-name/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── assets/
-│   └── images/
-└── README.md
-
+## Struttura del Progetto
